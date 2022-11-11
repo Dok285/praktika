@@ -1,0 +1,17 @@
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\bin\Debug\Zavod.exe.config
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\bin\Debug\Zavod.exe
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\bin\Debug\Zavod.pdb
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.csproj.AssemblyReference.cache
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.Form1.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.Properties.Resources.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.csproj.GenerateResource.cache
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.csproj.CoreCompileInputs.cache
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.exe
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.pdb
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.Form2.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\bin\Debug\ZAVOD.mdb
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.Form3.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.Form4.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.Form5.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.PostavkaForm6.resources
+C:\Users\lilal\Desktop\практика\Zavod\Zavod\obj\Debug\Zavod.postavshikForm7.resources
